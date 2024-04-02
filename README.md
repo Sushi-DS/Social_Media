@@ -1,7 +1,7 @@
 # Social_Media
 **course learn from Kazi(Udemy)**
 
-                                                                      **Social Media Project with Django**
+**Social Media Project with Django**
 
 This is a simple social media project developed using Django, a high-level Python web framework. The project allows users to register, create profiles, post updates, follow other users.
 
